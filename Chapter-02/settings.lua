@@ -7,4 +7,5 @@ settings =
  
         default = "portrait",
         supported = { "portrait", },
+        -- Line above sets the view options
     },
